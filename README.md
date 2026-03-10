@@ -266,7 +266,7 @@ The design is inspired by [Beryl](https://github.com/KarlAndr1/beryl) by KarlAnd
 
 ## 🙏 Acknowledgments
 
-- @**KarlAndr1** for Beryl
+- **KarlAndr1** for Beryl
 - **Robert Nystrom** for "Crafting Interpreters"
 - **MSYS2 and MinGW** for Windows tooling
 
@@ -285,4 +285,5 @@ The design is inspired by [Beryl](https://github.com/KarlAndr1/beryl) by KarlAnd
 
 
 *All comments and documentation in this codebase were generated with the assistance of AI. The code structure, logic, and functionality were designed by human .*
+
 
