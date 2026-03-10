@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![OS: Windows](https://img.shields.io/badge/OS-Windows-blue)
+![OS: macOS](https://img.shields.io/badge/OS-macOS-lightgrey)
+![OS: Linux](https://img.shields.io/badge/OS-Linux-green)
+
 # SysLang - The System Information Language
 
 A minimal, embeddable scripting language for getting hardware information across Windows, macOS, and Linux. Written in clean C99.
@@ -285,5 +290,6 @@ The design is inspired by [Beryl](https://github.com/KarlAndr1/beryl) by KarlAnd
 
 
 *All comments and documentation in this codebase were generated with the assistance of AI. The code structure, logic, and functionality were designed by human .*
+
 
 
